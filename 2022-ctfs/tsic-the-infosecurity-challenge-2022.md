@@ -14,7 +14,7 @@ Due to our inexperience in this field, we sadly did not clear any challenge apar
 
 The participation badge is pretty cool though.
 
-![](<.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 
 
