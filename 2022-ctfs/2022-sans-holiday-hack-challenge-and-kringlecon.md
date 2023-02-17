@@ -40,7 +40,7 @@ The final ring seems obtainable after you get all the other rings.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Final ring "challenge"</p></figcaption></figure>
 
-Overall, I completed 23% of the story which was not that bad in my book.
+Overall, I completed 23% of the story which was okay for me.
 
 
 
