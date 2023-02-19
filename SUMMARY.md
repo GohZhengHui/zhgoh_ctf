@@ -4,6 +4,7 @@
 
 ## 2023 CTFs
 
+* [0xL4ugh CTF 2023](2023-ctfs/0xl4ugh-ctf-2023.md)
 * [LA CTF 2023](2023-ctfs/la-ctf-2023.md)
 * [CSIT CNY 2023 Challenge](2023-ctfs/csit-cny-2023-challenge.md)
 
