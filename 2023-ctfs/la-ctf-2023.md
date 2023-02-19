@@ -14,11 +14,11 @@ The first challenge was just joining the discord so technically I only solved 2 
 
 By using [https://linangdata.com/exif-reader/](https://linangdata.com/exif-reader/) with the image, the location will be shown at USA. Then using google maps we can see that it is a place called Lānaʻi Cat Sanctuary. Website of the place is the flag.
 
-![](<../.gitbook/assets/image (11).png>)![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (15).png>)
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>web/college-tour</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>web/college-tour</p></figcaption></figure>
 
 On the website, I inspected the page source to reveal flags 1,2 and 4.
 
@@ -32,7 +32,7 @@ Then by going through the index.css and script.js files, I obtained the last 3 f
 
 
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Final result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Final result</p></figcaption></figure>
 
 
 
