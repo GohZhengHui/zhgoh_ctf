@@ -14,3 +14,8 @@
 * [GovTech STACK the Flags CTF 2022](2022-ctfs/govtech-stack-the-flags-ctf-2022.md)
 * [Flare-On Challenge 9 (2022)](2022-ctfs/flare-on-challenge-9-2022.md)
 * [TSIC (The InfoSecurity Challenge) 2022](2022-ctfs/tsic-the-infosecurity-challenge-2022.md)
+
+***
+
+* [2023 CTFs](2023-ctfs-1.md)
+* [2022 CTFs](2022-ctfs-1.md)
