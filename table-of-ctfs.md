@@ -1,4 +1,14 @@
-# 2022 CTFs
+# Table of CTFs
+
+## 2023
+
+| CTF name                                                                                             | Duration                            | Result        | Solved |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------- | ------ |
+| [CSIT CNY 2023 Challenge](http://localhost:5000/s/8mNTUPzr25y3aGS3DDiL/2023/csit-cny-2023-challenge) | Unknown                             | Cleared       | 1      |
+| [LA CTF 2023](http://localhost:5000/s/8mNTUPzr25y3aGS3DDiL/2023/la-ctf-2023)                         | 11 Feb 2023 1200 - 13 Feb 2023 0600 | Participation | 3/46   |
+| [0xL4ugh CTF 2023](http://localhost:5000/s/8mNTUPzr25y3aGS3DDiL/2023/0xl4ugh-ctf-2023)               | 17 Feb 2023 2000 - 18 Feb 2023 2000 | Participation | 4      |
+
+## 2022
 
 | CTF name                                                                                                                                           | Duration                                    | Result        | Solved   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------- | -------- |
