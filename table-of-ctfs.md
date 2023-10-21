@@ -2,7 +2,7 @@
 
 ## 2023
 
-<table><thead><tr><th width="234">CTF name</th><th width="189">Duration</th><th width="134">Result</th><th>Solved</th></tr></thead><tbody><tr><td>CSIT TSIC 2023</td><td>15 September 2100 – 1 October 2100</td><td>Participation</td><td>1</td></tr><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/0xl4ugh-ctf-2023">0xL4ugh CTF 2023</a></td><td>17 Feb 2023 2000 - 18 Feb 2023 2000</td><td>Participation</td><td>4</td></tr><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/la-ctf-2023">LA CTF 2023</a></td><td>11 Feb 2023 1200 - 13 Feb 2023 0600</td><td>Participation</td><td>3/46</td></tr><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/csit-cny-2023-challenge">CSIT CNY 2023 Challenge</a></td><td>Unknown</td><td>Cleared</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="234">CTF name</th><th width="189">Duration</th><th width="134">Result</th><th>Solved</th></tr></thead><tbody><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/csit-tsic-2023">CSIT TSIC 2023</a></td><td>15 September 2100 – 1 October 2100</td><td>Participation</td><td>1</td></tr><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/0xl4ugh-ctf-2023">0xL4ugh CTF 2023</a></td><td>17 Feb 2023 2000 - 18 Feb 2023 2000</td><td>Participation</td><td>4</td></tr><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/la-ctf-2023">LA CTF 2023</a></td><td>11 Feb 2023 1200 - 13 Feb 2023 0600</td><td>Participation</td><td>3/46</td></tr><tr><td><a href="http://127.0.0.1:5000/s/8mNTUPzr25y3aGS3DDiL/2023/csit-cny-2023-challenge">CSIT CNY 2023 Challenge</a></td><td>Unknown</td><td>Cleared</td><td>1</td></tr></tbody></table>
 
 ## 2022
 
